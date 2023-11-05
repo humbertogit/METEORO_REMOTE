@@ -13,4 +13,4 @@ barco=5
 elfante=100
 otra=200
 
-}
+new=200
