@@ -10,3 +10,7 @@ z="Hola"
 barco=5
 
 
+elfante=100
+otra=200
+
+}
