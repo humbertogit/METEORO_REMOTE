@@ -4,3 +4,4 @@ def foo(x):
 
 x=10
 y=300
+z="Hola"
